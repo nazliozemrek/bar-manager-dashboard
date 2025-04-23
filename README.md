@@ -39,13 +39,13 @@ npx expo start --tunnel
 ## 📸 Screenshots
 
 ### 🔹 Dashboard View
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dashboard1.png)
 
 ### 🔹 Inventory Tracker
-![Inventory](assets/screenshots/inventory.png)
+![Inventory](assets/screenshots/inventory1.png)
 
 ### 🔹 Live Sales Feed
-![Sales Feed](assets/screenshots/sales-feed.png)
+![Sales Feed](assets/screenshots/sales-feed1.png)
 
 ### 🔹 Requisition Export
 ![Requisition](assets/screenshots/requisition.png)
