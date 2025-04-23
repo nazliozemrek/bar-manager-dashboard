@@ -35,6 +35,9 @@ npx expo start --tunnel
 ```
 
 ---
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/EmQR9Gph54E/maxresdefault.jpg)](https://www.youtube.com/watch?v=EmQR9Gph54E)
 
 ## 📸 Screenshots
 
